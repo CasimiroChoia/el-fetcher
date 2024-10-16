@@ -16,6 +16,6 @@ Facilitar a coleta e o armazenamento de dados de APIs externas, proporcionando u
 
 ### Comandos
 
-1. _npm start_ - iniciar projecto
-1. npm run server - serve para iniciar um servidor imaginário
-1. npm run projecto - serve para iniciar os dois comandos anteriores de uma vez (não recomendado)
+1. **npm start** - iniciar projecto
+1. **npm run server** - serve para iniciar um servidor imaginário
+1. **npm run projecto** - serve para iniciar os dois comandos anteriores de uma vez (não recomendado)
