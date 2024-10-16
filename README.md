@@ -13,3 +13,9 @@ Criado por Casimiro Choia, Este aplicativo, desenvolvido em Node.js, é capaz de
 ## Objectivo Principal
 
 Facilitar a coleta e o armazenamento de dados de APIs externas, proporcionando uma solução automatizada para a criação de relatórios ou análises a partir dessas informações.
+
+### Comandos
+
+1. *npm start* - iniciar projecto
+1. npm run server - serve para iniciar um servidor imaginário
+1. npm run projecto - serve para iniciar os dois comandos anteriores de uma vez (não recomendado)
